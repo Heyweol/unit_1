@@ -20,6 +20,8 @@ var cityPop = [
 	}
 ];
 
+
+
 // add a coloumm show relative size of city
 function addColumns(cityPop){
     
